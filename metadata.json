@@ -1,0 +1,5 @@
+{
+  "name": "3D Bin Packing Optimizer",
+  "description": "A high-performance logistics application for calculating and visualizing 3D container loading optimization using first-fit heuristics and Plotly 3D rendering.",
+  "requestFramePermissions": []
+}
